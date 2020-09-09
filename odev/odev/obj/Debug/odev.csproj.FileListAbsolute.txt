@@ -1,0 +1,15 @@
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.Form1.resources
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.kayit.resources
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\odev\odev\bin\Debug\odev.exe.config
+C:\Users\FURKAN\source\repos\odev\odev\bin\Debug\odev.exe
+C:\Users\FURKAN\source\repos\odev\odev\bin\Debug\odev.pdb
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.exe
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.pdb
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.adminGiris.resources
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.moderatorHome.resources
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.uyeHome.resources
+C:\Users\FURKAN\source\repos\odev\odev\obj\Debug\odev.kitaplar.resources
